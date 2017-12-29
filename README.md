@@ -11,7 +11,7 @@ This App utilizes:
 - [Webpack](https://webpack.github.io/) for bundling
 - [Babel](https://babeljs.io/)
 
-![REACT-REDUX-WEATHER-APP](https://media.giphy.com/media/3o751RDO3azkk6MyU8/giphy.gif)
+![REACT-REDUX-WEATHER-APP](https://i.imgur.com/FSmWvn9.gif)
 
 ## Running app locally
 
